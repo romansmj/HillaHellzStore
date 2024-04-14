@@ -40,6 +40,10 @@ nav ul li a:hover {
     transition: 0.3s;
 }
 
+.cart {
+    transform: translateY(5px);
+}
+
 span {
     color: #ea1538;
 }
@@ -73,6 +77,10 @@ span {
 
 .image {
     height: 100px;
+}
+
+.image_navigation {
+    height: 30px;
 }
 
 .footer {
